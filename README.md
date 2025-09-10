@@ -1,4 +1,4 @@
-# Freshers React Web Scraper (Google OAuth)
+# React Web Scraper (Google OAuth)
 # Deploed on render :- https://web-scraper-frontend-ifmy.onrender.com/
 A full-stack starter that satisfies your requirements:
 
@@ -126,5 +126,6 @@ Frontend runs on **http://localhost:5173**.
 
 
 #
+
 
 
